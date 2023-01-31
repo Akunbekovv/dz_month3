@@ -1,0 +1,36 @@
+[
+  {
+    "name": "iphone 10",
+    "price": "30600 руб",
+    "url": "https://basket-05.wb.ru/vol910/part91071/91071391/images/tm/1.jpg",
+    "play": "корзина"
+  },
+  {
+    "name": "iphone 11",
+    "price": "47151 руб",
+    "url": "https://basket-10.wb.ru/vol1409/part140996/140996697/images/tm/1.jpg",
+    "play": "корзина"
+
+  },
+  {
+    "name": "iphone 12",
+    "price": "55071 руб",
+    "url": "https://basket-09.wb.ru/vol1311/part131112/131112789/images/tm/1.jpg",
+    "play": "корзина"
+
+  },
+  {
+    "name": "iphone 13",
+    "price": "59992 руб",
+    "url": "https://basket-08.wb.ru/vol1132/part113244/113244919/images/tm/1.jpg",
+    "play": "корзина"
+
+  },
+  {
+    "name": "iphone 14",
+    "price": "79992 руб",
+    "url": "https://basket-06.wb.ru/vol1039/part103949/103949358/images/tm/1.jpg",
+    "play": "корзина"
+
+  }
+]
